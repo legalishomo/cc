@@ -1,0 +1,5 @@
+103.137.63.227:8443#TW zip.cm.edu.kg 优选 157.7ms loss=0.0
+185.248.184.201:2053#TW zip.cm.edu.kg 优选 244.5ms loss=0.0
+223.165.4.124:8443#TW zip.cm.edu.kg 优选 309.3ms loss=0.0
+223.165.4.124:2053#TW zip.cm.edu.kg 优选 319.6ms loss=0.0
+167.253.153.214:443#TW zip.cm.edu.kg 优选 468.5ms loss=0.0

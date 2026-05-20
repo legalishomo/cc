@@ -1,0 +1,16 @@
+38.59.241.94:8443#US zip.cm.edu.kg 优选1 179.7ms loss=0.0
+69.40.207.253:8443#US zip.cm.edu.kg 优选2 182.6ms loss=0.0
+31.58.50.143:8443#US zip.cm.edu.kg 优选3 188.3ms loss=0.0
+31.58.50.23:2053#US zip.cm.edu.kg 优选4 190.7ms loss=0.0
+64.186.232.95:443#US zip.cm.edu.kg 优选5 190.9ms loss=0.0
+154.21.89.103:8443#US zip.cm.edu.kg 优选6 191.7ms loss=0.0
+38.75.221.85:443#US zip.cm.edu.kg 优选7 191.7ms loss=0.0
+154.26.184.229:8443#US zip.cm.edu.kg 优选8 191.9ms loss=0.0
+154.26.186.47:443#US zip.cm.edu.kg 优选9 192.3ms loss=0.0
+64.186.230.189:8443#US zip.cm.edu.kg 优选10 192.3ms loss=0.0
+23.177.185.138:443#US zip.cm.edu.kg 优选11 192.4ms loss=0.0
+45.156.24.165:8443#US zip.cm.edu.kg 优选12 192.5ms loss=0.0
+64.186.234.243:443#US zip.cm.edu.kg 优选13 193.3ms loss=0.0
+64.186.239.202:443#US zip.cm.edu.kg 优选14 196.9ms loss=0.0
+45.77.6.22:443#US zip.cm.edu.kg 优选15 197.6ms loss=0.0
+64.186.236.184:8443#US zip.cm.edu.kg 优选16 197.6ms loss=0.0
