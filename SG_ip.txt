@@ -4,12 +4,8 @@
 129.212.232.220:8443#SG zip.cm.edu.kg
 134.185.88.235:8443#SG zip.cm.edu.kg
 139.180.143.248:8443#SG zip.cm.edu.kg
-140.245.107.0:8443#SG zip.cm.edu.kg
 140.245.54.99:2053#SG zip.cm.edu.kg
 143.198.87.50:8443#SG zip.cm.edu.kg
-149.118.55.215:2053#SG zip.cm.edu.kg
-149.118.55.215:2096#SG zip.cm.edu.kg
-149.118.55.215:8443#SG zip.cm.edu.kg
 15.235.212.159:8443#SG zip.cm.edu.kg
 152.42.198.52:8443#SG zip.cm.edu.kg
 157.230.39.201:2053#SG zip.cm.edu.kg
@@ -37,11 +33,9 @@
 195.85.19.194:8443#SG zip.cm.edu.kg
 207.148.119.176:8443#SG zip.cm.edu.kg
 207.148.125.245:8443#SG zip.cm.edu.kg
-217.142.190.216:8443#SG zip.cm.edu.kg
 43.133.42.56:2053#SG zip.cm.edu.kg
 43.160.246.223:8443#SG zip.cm.edu.kg
 45.76.158.201:8443#SG zip.cm.edu.kg
-45.76.176.213:8443#SG zip.cm.edu.kg
 45.77.254.160:8443#SG zip.cm.edu.kg
 47.82.155.79:2053#SG zip.cm.edu.kg
 47.82.155.79:8443#SG zip.cm.edu.kg
@@ -57,3 +51,5 @@
 64.56.71.64:8443#SG zip.cm.edu.kg
 66.42.51.60:8443#SG zip.cm.edu.kg
 8.219.154.217:8443#SG zip.cm.edu.kg
+91.192.81.154:2053#SG zip.cm.edu.kg
+91.192.81.154:8443#SG zip.cm.edu.kg
